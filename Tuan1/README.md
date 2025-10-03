@@ -13,4 +13,5 @@
 + Doanh nghiệp đẩy mạnh chuyển đổi số, nhu cầu về ứng dụng di động ngày càng cao → cơ hội việc làm cho lập trình viên mobile rất lớn.
 
 3. Ứng dụng demo UI:
-<img width="1080" height="2400" alt="Screenshot_20251003_172912" src="https://github.com/user-attachments/assets/ca2ff28b-cb24-4746-82ee-5f6d6f7b78d9" />
+<img width="300" alt="Demo UI" src="https://github.com/user-attachments/assets/ca2ff28b-cb24-4746-82ee-5f6d6f7b78d9" />
+
