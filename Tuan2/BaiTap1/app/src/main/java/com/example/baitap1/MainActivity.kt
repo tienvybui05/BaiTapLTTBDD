@@ -70,7 +70,6 @@ fun ThucHanh01Screen(modifier: Modifier = Modifier) {
                 modifier = Modifier.fillMaxWidth(),
                 horizontalAlignment = Alignment.Start
             ) {
-                // Ô nhập họ tên
                 Row(verticalAlignment = Alignment.CenterVertically) {
                     Text(
                         text = "Họ và tên:",
@@ -95,7 +94,6 @@ fun ThucHanh01Screen(modifier: Modifier = Modifier) {
 
                 Spacer(modifier = Modifier.height(12.dp))
 
-                // Ô nhập tuổi
                 Row(verticalAlignment = Alignment.CenterVertically) {
                     Text(
                         text = "Tuổi:",
